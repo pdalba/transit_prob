@@ -10,7 +10,7 @@ For details about the script or the relating project, please see the in press/pu
 
 Paul A. Dalba, Stephen R. Kane, Thomas Barclay, Jacob L. Bean, Tiago L. Campante, Joshua Pepper, Darin Ragozzine, and Margaret C. Turnbull
 
-To be published in the Publication of the Astronomical Society of the Pacific (PASP)
+To be published in the Publications of the Astronomical Society of the Pacific (PASP)
 
 arXiv link: (To be updated Monday Nov. 19, 2018)
 
