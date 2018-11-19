@@ -12,6 +12,6 @@ Paul A. Dalba, Stephen R. Kane, Thomas Barclay, Jacob L. Bean, Tiago L. Campante
 
 To be published in the Publications of the Astronomical Society of the Pacific (PASP)
 
-arXiv link: (To be updated Monday Nov. 19, 2018)
+arXiv link: https://arxiv.org/abs/1811.06550
 
 
